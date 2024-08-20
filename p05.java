@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class p5 {
+public class p05 {
   public static void main(String[] args) {
     Float f, c;
     Scanner sc = new Scanner(System.in);

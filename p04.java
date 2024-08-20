@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class p4 {
+public class p04 {
   public static void main(String[] args) {
     int a;
     float b;
