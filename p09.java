@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class p9{
+class p09{
   public static void main(String args[]){
     int num1, num2, num3;
 
